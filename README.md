@@ -1,7 +1,3 @@
-# 💫 About Me:
-- 🔭 I’m currently working on [Begentoos](https://begento.com/#/)<br><br>- 🌱 I’m currently learning **NestJS**<br><br>- 👨‍💻 All of my projects are available at [https://marcoslopez95.github.io](https://marcoslopez95.github.io)<br><br>- 📝 I regularly write articles on [https://www.linkedin.com/in/marcoslopez1895/](https://www.linkedin.com/in/marcoslopez1895/)<br><br>- 💬 Ask me about **Vue, Laravel,**<br><br>- 📫 How to reach me **marcoslopez1895@gmail.com**<br><br>- 📄 Know about my experiences [https://marcoslopez95.github.io](https://marcoslopez95.github.io)
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/909790173309579264) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marc.manu14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcoslopez1895) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcoslopez1895@gmail.com) 
 
